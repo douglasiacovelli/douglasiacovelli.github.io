@@ -14,8 +14,8 @@ Resolvi criar esta página com algumas perguntas e respostas importantes para o 
 
 ### O que devo fazer após a homologação da Universidade?
 
-* Ter o passaporte brasileiro válido por todo a estadia na Austrália.
-* Escolher 2 universidades de destino.
+* Ter o passaporte brasileiro válido por todo o tempo de estadia na Austrália.
+* Escolher 2 universidades de destino do grupo Go8.
   * Para cada uma destas universidades você deverá escolher:
     * 6 matérias para o 2º Sem/2014
     * 6 matérias para o 1º Sem/2015
