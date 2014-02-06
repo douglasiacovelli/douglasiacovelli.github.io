@@ -10,7 +10,7 @@ image:
 share: true
 ---
 
-Resolvi criar esta página com algumas perguntas e respostas importantes para o intercâmbio de quem pretende ir pra Austrália com o Ciências Sem Fronteiras (CSF) para a chamada do Go8 - 167 (2º Sem. de 2014).
+Resolvi criar esta página com algumas perguntas e respostas importantes para o intercâmbio de quem pretende ir pra Austrália por meio do Ciência Sem Fronteiras (CSF) para a chamada do Go8 - 167 (2º Sem. de 2014).
 
 ### O que devo fazer após a homologação da Universidade?
 
