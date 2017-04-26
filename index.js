@@ -20,6 +20,11 @@ if (typeof MauticSDKLoaded == 'undefined') {
 
 $('form').submit(function(e) {
   fbq('track', 'Lead');
+  ga('send', {
+    hitType: 'event',
+    eventCategory: 'Gerar lead',
+    eventAction: 'submit'
+  });
 });
 
 $('#link-curso').click(function(e) {
