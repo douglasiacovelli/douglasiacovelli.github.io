@@ -18,6 +18,10 @@ if (typeof MauticSDKLoaded == 'undefined') {
     }
 }
 
+$('form').submit(function(e) {
+  fbq('track', 'Lead');
+});
+
 $('#link-curso').click(function(e) {
   e.preventDefault();
   ga('send', {
@@ -26,4 +30,10 @@ $('#link-curso').click(function(e) {
     eventAction: 'clique',
     eventLabel: 'Footer'
   });
+
+  fbq('track', 'click_curso');
+
+
+
+
 });
