@@ -31,9 +31,6 @@ $('#link-curso').click(function(e) {
     eventLabel: 'Footer'
   });
 
-  fbq('track', 'click_curso');
-
-
-
+  fbq('trackCustom', 'click_curso');
 
 });
